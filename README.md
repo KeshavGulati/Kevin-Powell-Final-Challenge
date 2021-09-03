@@ -35,7 +35,7 @@ Hey everyone! I have completed the final challenge of Kevin Powell's responsive 
  ### Links
 
  - [index.html](index.html)
- - [GitHub Live URL]()
+ - [GitHub Live URL](https://keshavgulati.github.io/Kevin-Powell-Final-Challenge/index.html)
 
 ## Author
 

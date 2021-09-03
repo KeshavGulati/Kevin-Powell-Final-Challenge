@@ -24,6 +24,21 @@ Hey everyone! I have completed the final challenge of Kevin Powell's responsive 
 
  ![Desktop](/final-challenge-desktop-ss.png)
 
+ - Tablet
+
+ ![Tablet](/final-challenge-tablet-ss.png)
+
  - Mobile
 
- ![Mobile]()
+ ![Mobile](/final-challenge-mobile-ss.png)
+
+ ### Links
+
+ - [index.html](index.html)
+ - [GitHub Live URL]()
+
+## Author
+
+- GitHub - [@KeshavGulati](https://github.com/KeshavGulati)
+- Frontend Mentor - [@KeshavGulati](https://www.frontendmentor.io/profile/KeshavGulati)
+- Hashnode - [https://keshavgulati.hashnode.dev/](https://keshavgulati.hashnode.dev/)
